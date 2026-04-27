@@ -1,0 +1,4 @@
+Dataset 1 -> avg slope: 0.5001, avg intercept: 3.0001, avg runtime: 510ns
+Dataset 2 -> avg slope: 0.5000, avg intercept: 3.0009, avg runtime: 529ns
+Dataset 3 -> avg slope: 0.4997, avg intercept: 3.0025, avg runtime: 512ns
+Dataset 4 -> avg slope: 0.4999, avg intercept: 3.0017, avg runtime: 549ns
