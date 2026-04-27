@@ -108,12 +108,6 @@ func plotData(data map[string][]float64, filename string) error {
 	return err
 }
 
-type RegressionResult struct {
-	Slope     float64
-	Intercept float64
-	R2        float64
-}
-
 func makeSeries(x, y []float64) ([]stats.Coordinate, error) {
 	if len(x) != len(y) {
 		return nil, fmt.Errorf("x and y are not the same length")
