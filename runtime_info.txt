@@ -1,0 +1,17 @@
+#avg runtimes in R 
+Set I avg runtime:   0.000620 sec
+Set II avg runtime:  0.000540 sec
+Set III avg runtime: 0.000720 sec
+Set IV avg runtime:  0.000790 sec
+
+#avg runtimes in python
+Set I avg runtime:  0.000575 sec
+Set II avg runtime: 0.000566 sec
+Set III avg runtime:0.000560 sec
+Set IV avg runtime: 0.000567 sec
+
+#avg runtimes in Go
+Set I avg runtime:  507ns
+Set II avg runtime: 530ns
+Set III avg runtime:0s
+Set IV avg runtime: 1.064µs
